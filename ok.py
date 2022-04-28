@@ -33,7 +33,7 @@ class jalan:
 		for e in z + "\n":
 			sys.stdout.write(e)
 			sys.stdout.flush()
-			time.sleep(0.009)
+			timde.sleep(0.009)
 ## import crack
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
 from concurrent.futures import ThreadPoolExecutor
@@ -409,18 +409,12 @@ imtiazak_ua_oppo    = 'Mozilla/5.0 (Linux; Android 5.1.1; A37f) AppleWebKit/537.
 imtiazak_ua_samsung = 'Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]'
 imtiazak_ua_windows = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
 banner="""\033[1;94m   
- Y88b   d88P     d8888  .d8888b. 8888888 888b    888 
- Y88b d88P     d88888 d88P  Y88b  888   8888b   888 
-  Y88o88P     d88P888 Y88b.       888   88888b  888 
-   Y888P     d88P 888  "Y888b.    888   888Y88b 888 
-    888     d88P  888     "Y88b.  888   888 Y88b888 
-    888    d88P   888       "888  888   888  Y88888 
-    888   d8888888888 Y88b  d88P  888   888   Y8888 
-    888  d88P     888  "Y8888P" 8888888 888    Y888
+ Y88b  
+ Y88b d     
 \033[1;37m ｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡
-\033[1;94m ⇨AUTHOR    : MUHAMMAD ASIF
+\033[1;94m ⇨AUTHOR    : ASIF NOOR
 \033[1;95m ⇨WHATSAPP  : +923406758952
-\033[1;96m ⇨FACEBOOK  : ASIF NOOR  (RAHIMOON)
+\033[1;96m ⇨FACEBOOK  : ASIF NOOR  
 \033[1;93m ⇨INSTA     : ASIF ALI RAHII
 \033[1;91m ⇨VERSION   : 0.0.1
 \
