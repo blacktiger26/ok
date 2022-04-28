@@ -287,8 +287,8 @@ class __crack__:
 				continue
 		loop += 1
 	def __pler__(self):
-		print ("\033[1;94m [1] Auto 2 Pass ([ P R O ] ")
-		print (" [2] Auto 2 Digit Pass ([ F A S T ] ")
+		print ("\033[1;94m [1] Auto 2 Pass ([P R O] ")
+		print (" [2] Auto 2 Digit Pass ([F A S T ] ")
 		print (" [3] Auto 5 Pass [ S L O W ]")
 		print (" [4] Auto 4 Digit Pass [ S L O W ]")
 		yan = input('\n [•] \033[1;37m C H O O S E : ')
